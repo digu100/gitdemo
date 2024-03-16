@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Changes
-=======
-Hello World
->>>>>>> Stashed changes
+Content from the new Feature
