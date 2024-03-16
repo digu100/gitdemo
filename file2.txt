@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Changes
-=======
-Hello World
->>>>>>> Stashed changes
+master main branch changes
